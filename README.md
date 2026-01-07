@@ -1,4 +1,4 @@
-### Hello Stranger :wave:! Thank you for invading my GitHub space 👾
+### Hello Stranger! Thank you for invading my GitHub space 👾
 
 # I'm Suraj 👋
 
