@@ -1,6 +1,9 @@
 ### Hello Stranger :wave:! Thank you for invading my GitHub space 👾
 
-I'm Suraj, a software engineer based in India.
+# I'm Suraj 👋
+
+🚀 Currently learning cloud-native engineering with a focus on system design.
+
 <!--
 **suraj-py/suraj-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
